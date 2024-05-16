@@ -1,6 +1,6 @@
 
 ## Sobre-Mim
-Olá meu nome é Guilherme Barroso e estou cursando Ciências da Computação,e estou atualmente finalizando o 3° período. Moro em Fortaleza(CE) e atualmente estou em busca de estágio na área de programação.
+Olá meu nome é Guilherme Barroso, sou desenvolvedor front end, estou cursando Ciências da Computação, estou atualmente finalizando o 3° período.
 ## 📱Contato
 📧Guilhermebarroso166@gmail.com
 
