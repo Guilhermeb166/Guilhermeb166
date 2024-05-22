@@ -7,6 +7,6 @@ Olá meu nome é Guilherme Barroso, sou desenvolvedor front end, estou cursando 
 ## 💻Tecnologias
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,git,mySQ&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,figma,git,mySQ&theme=light)](https://skillicons.dev)
 ## Git Status
 ![Guilhermeb166's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilhermeb166&show_icons=true&bg_color=00000000)
