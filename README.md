@@ -1,6 +1,6 @@
 
 ## Sobre-Mim
-Olá meu nome é Guilherme Barroso, sou desenvolvedor front end, estou cursando Ciências da Computação, estou atualmente finalizando o 3° período.
+Olá meu nome é Guilherme Barroso,tenho 18 anos,sou desenvolvedor front end, estou cursando Ciências da Computação, estou atualmente finalizando o 3° período.
 ## 📱Contato
 📧Guilhermebarroso166@gmail.com
 
