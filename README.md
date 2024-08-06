@@ -1,7 +1,7 @@
 
 ## Sobre-Mim
-Olá meu nome é Guilherme Barroso, sou desenvolvedor Front End.
-Estou cursando Ciências da Computação, atualmente no 4° período.
+Olá meu nome é Guilherme Barroso, sou um desenvolvedor Front End.
+
 
 ## 📱Contato
 📧Guilhermebarroso166@gmail.com
