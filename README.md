@@ -1,6 +1,6 @@
 
 ## Sobre Mim
-Olá meu nome é Guilherme Barroso, sou um desenvolvedor Front End.
+Desenvolvedor Full-Stack com experiência prática no desenvolvimento de sistemas web completos, desde interfaces responsivas até integrações com bancos de dados.
 
 
 ## 📱Contato
