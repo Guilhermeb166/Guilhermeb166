@@ -26,9 +26,9 @@
   <img src="https://gitglow-three.vercel.app/api/languages?username=Guilhermeb166&theme=dark" alt="Top Languages" />
 </div>
 
-<br> <div align="center">
+<!-- <br> <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Guilhermeb166&theme=github_dark" alt="GitHub Streak" />
-</div>
+</div> -->
 
 <br> <div align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
